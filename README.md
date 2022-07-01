@@ -1,15 +1,15 @@
 What is Node.js?
-.Node.js is an open source server environment.
-.It runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
-.It uses JavaScript on the server.
-.It uses asynchronous programming.
-.It eliminates the waiting, and simply continues with the next request.
-.It runs single-threaded, non-blocking, asynchronous programming, which is very memory efficient.
+1)Node.js is an open source server environment.
+2)It runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+3)It uses JavaScript on the server.
+4)It uses asynchronous programming.
+5)It eliminates the waiting, and simply continues with the next request.
+6)It runs single-threaded, non-blocking, asynchronous programming, which is very memory efficient.
 What Can Node.js Do?
-.Node.js can generate dynamic page content.
-.It can create, open, read, write, delete, and close files on the server.
-.It can collect form data.
-.It can add, delete, modify data in your database
+1)Node.js can generate dynamic page content.
+2)It can create, open, read, write, delete, and close files on the server.
+3)It can collect form data.
+4)It can add, delete, modify data in your database
 Node modules
 => http, https, path, os these are some of the core node modules.
 
